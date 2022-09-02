@@ -15,3 +15,6 @@ npm
 clone this repo in the same folder of project : 
 https://github.com/OpenClassrooms-Student-Center/P9-front-end-dashboard
  - Install dependencies : 
+  The yarn command will allow you to install the dependencies.
+The yarn dev command will allow you to run the micro API.
+run the yarn dev command.
