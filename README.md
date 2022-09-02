@@ -8,9 +8,10 @@
 
 
 # Installation (Anglais)
-Prérequis
-NodeJS 
-npm
+### Require
+#### NodeJS 
+#### npm
+
 1- Install the back-end
 clone this repo in the same folder of project : 
 git clone https://github.com/OpenClassrooms-Student-Center/P9-front-end-dashboard
@@ -26,5 +27,23 @@ npm install
 then : npm start
 Front-end is  rendered at  http://localhost:3000 
 
+# Installation (Français)
 
+### Prérequis
+#### NodeJS 
+#### npm
 
+1- Installation de back-end
+cloner la repository en meme dossier de project : 
+git clone https://github.com/OpenClassrooms-Student-Center/P9-front-end-dashboard
+ - Installation des dependencies : 
+    yarn commande vous permez d'installer les dependencies.
+   yarn dev commande vous permez d'excuter la micro API.
+ 
+2 - Installation de front-end
+cloner la repository en meme dossier de project : 
+git clone https://github.com/achrafro/SaadiAchraf_12_07202022/tree/master
+ - Installation des dependencies : 
+npm install
+aprés : npm start
+Front-end est generer sur l'url :  http://localhost:3000 
