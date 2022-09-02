@@ -12,11 +12,11 @@
 1- Install the back-end
 clone this repo in the same folder of project :  
 git clone https://github.com/OpenClassrooms-Student-Center/P9-front-end-dashboard
- - Install dependencies : 
-  The yarn command will allow you to install the dependencies.
+ - Install dependencies :   
+  The yarn command will allow you to install the dependencies.  
 The yarn dev command will allow you to run the micro API.
-run the yarn dev command.
-2 - install the front-end
+run the yarn dev command.  
+2 - install the front-end  
 clone the repo in folder of project : 
 git clone https://github.com/achrafro/SaadiAchraf_12_07202022/tree/master
 to install dependencies :
